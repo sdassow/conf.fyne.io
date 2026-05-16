@@ -11,7 +11,7 @@ The event will run all day of 11th September 2026 and will be hosted by the
 [Social Hub](https://www.thesocialhub.co/eindhoven/). This excellent city-center
 location is easy to get to and has accomodation nearby.
 
-[Submit your talk proposal now!](https://www.papercall.io/fyneconf2026)
+[Submit your talk proposal now!](https://sessionize.com/fyneconf2026/)
 
 This event is a chance to learn more about Fyne and how it can be used to
 easily build robust and performant cross platform applications.
@@ -24,7 +24,7 @@ Fyne Conf 2026 will be held at The Social Hub in Eindhoven, Netherlands - as wel
 
 ## Speakers
 
-To be confirmed - [submit your talk proposal now!](https://www.papercall.io/fyneconf2026)
+To be confirmed - [submit your talk proposal now!](https://sessionize.com/fyneconf2026/)
 
 ## Sponsorship
 
