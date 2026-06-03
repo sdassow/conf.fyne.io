@@ -55,4 +55,69 @@ html:not(.dark) .prose a {
 .prose img {
   margin: 0 auto;
 }
+
+.btn {
+  display: inline-block;
+  padding: 0.8rem 2rem;
+  margin: 0.75rem 0;
+  background-color: #b5e853;
+  color: #1a1a1a !important;
+  font-size: 1.1rem;
+  font-weight: 700;
+  border-radius: 0.5rem;
+  text-decoration: none !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  transition: background-color 0.2s ease, transform 0.1s ease;
+}
+
+.btn:hover {
+  background-color: #c8f06e;
+  transform: translateY(-1px);
+}
+
+.speaker {
+  display: flex;
+  align-items: center;
+  gap: 1.75rem;
+  margin: 1.75rem 0;
+}
+
+.speaker img {
+  width: 170px;
+  flex-shrink: 0;
+  margin: 0;
+  border-radius: 0.5rem;
+}
+
+.speaker-info {
+  flex: 1;
+}
+
+.speaker-talk {
+  margin: 0 0 0.5rem 0;
+  padding-left: 0.85rem;
+  border-left: 4px solid #b5e853;
+  font-size: 1.5rem;
+  line-height: 1.25;
+  font-weight: 800;
+  font-style: italic;
+}
+
+.speaker-name {
+  margin: 0;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+@media (max-width: 640px) {
+  .speaker {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .speaker-talk {
+    padding-left: 0;
+    border-left: none;
+  }
+}
 </style>
