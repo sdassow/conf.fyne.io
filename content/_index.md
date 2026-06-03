@@ -29,7 +29,7 @@ Fyne Conf 2026 will be held at The Social Hub in Eindhoven, Netherlands - as wel
 We are delighted to announce our first speakers, with more to be confirmed - [submit your talk proposal now!](https://sessionize.com/fyneconf2026/)
 
 <div class="speaker">
-  <img src="/img/andydotxyz.jpg" alt="Andrew Williams" />
+  <img src="/img/andydotxyz.jpg" alt="Andrew Williams" class="nozoom" />
   <div class="speaker-info">
     <p class="speaker-talk">When Applications Design Themselves: AI, Fyne, and the Future of User Interfaces</p>
     <p class="speaker-name">Andrew Williams — <a href="https://twitter.com/andydotxyz">andydotxyz</a></p>
@@ -39,6 +39,10 @@ We are delighted to announce our first speakers, with more to be confirmed - [su
 ## Sponsorship
 
 Why not sponsor the event? Get in touch to find out more!
+
+Media Partners:
+
+<a href="https://devitjobs.uk/" style="text-decoration: none" alt="DevITJobs.uk" title="DevITJobs.uk"><img src="/img/devitjobs.png" height="64" style="margin: 14pt 0;" class="nozoom" /></a>
 
 ## Support or Contact
 
