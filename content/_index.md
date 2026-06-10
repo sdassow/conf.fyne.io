@@ -36,6 +36,16 @@ We are delighted to announce our first speakers, with more to be confirmed - [su
   </div>
 </div>
 
+## Schedule - 11 September 2026
+
+| Start (CEST) | Speaker | Title |
+|:---:|:---|:---|
+| 9:30 | | **Breakfast and registration** (pastry and drinks provided) |
+| 10:00 | TBD | Talks |
+| 13:00 | | **Lunch and networking** (sandwiches and drinks provided) |
+| 13:30 | TBD | Hackathon / Workshop |
+| 17:00 | | **Social event** (drinks provided) |
+
 ## Sponsorship
 
 Why not sponsor the event? Get in touch to find out more!
