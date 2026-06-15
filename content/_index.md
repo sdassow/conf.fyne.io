@@ -32,9 +32,27 @@ We are delighted to announce our first speakers, with more to be confirmed - [su
   <img src="/img/andydotxyz.jpg" alt="Andrew Williams" class="nozoom" />
   <div class="speaker-info">
     <p class="speaker-talk">When Applications Design Themselves: AI, Fyne, and the Future of User Interfaces</p>
-    <p class="speaker-name">Andrew Williams — <a href="https://twitter.com/andydotxyz">andydotxyz</a></p>
+    <p class="speaker-name">Andrew Williams — <a href="https://andy.xyz">Website</a> - <a href="https://linkedin.com/in/andrewjewilliams">LinkedIn</a></p>
   </div>
 </div>
+
+<div class="speaker">
+  <img src="/img/leo.jpg" alt="Leo Ganz" class="nozoom" />
+  <div class="speaker-info">
+    <p class="speaker-talk">Developing a Fyne app with an Android foreground service</p>
+    <p class="speaker-name">Leo Ganz — <a href="https://linkedin.com/in/leo-ganz-353117207">LinkedIn</a></p>
+  </div>
+</div>
+
+<div class="speaker">
+  <img src="/img/sdassow.jpg" alt="Simon Dassow" class="nozoom" />
+  <div class="speaker-info">
+    <p class="speaker-talk">Spotlyte - fast and lightweight information lookup tool</p>
+    <p class="speaker-name">Simon Dassow — <a href="https://consultwithsimon.tech">Website</a></p>
+  </div>
+</div>
+
+
 
 ## Schedule - 11 September 2026
 
