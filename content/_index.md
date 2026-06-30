@@ -52,6 +52,22 @@ We are delighted to announce our first speakers, with more to be confirmed - [su
   </div>
 </div>
 
+<div class="speaker">
+  <img src="/img/jeremy.jpg" alt="Jeremy Foranw" class="nozoom" />
+  <div class="speaker-info">
+    <p class="speaker-talk">Fyne Tune a Train Network</p>
+    <p class="speaker-name">Jeremy Foranw — <a href="https://blueflag.consulting/">Website</a> - <a href="https://www.linkedin.com/in/jeremyforan/">LinkedIn</a></p>
+  </div>
+</div>
+
+<div class="speaker">
+  <img src="/img/hkparker.jpg" alt="Hayden Parker" class="nozoom" />
+  <div class="speaker-info">
+    <p class="speaker-talk">Accessing the Android Camera</p>
+    <p class="speaker-name">Hayden Parker — <a href="https://github.com/hkparker">GitHub</a></p>
+  </div>
+</div>
+
 
 
 ## Schedule - 11 September 2026

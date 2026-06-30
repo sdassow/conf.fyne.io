@@ -83,7 +83,19 @@ html:not(.dark) .prose a {
   display: flex;
   align-items: center;
   gap: 1.75rem;
-  margin: 1.75rem 0;
+  margin: 0.25rem 0;
+}
+
+.speaker:nth-of-type(even) {
+  flex-direction: row-reverse;
+  text-align: right;
+}
+
+.speaker:nth-of-type(even) .speaker-talk {
+  padding-left: 0;
+  padding-right: 0.85rem;
+  border-left: none;
+  border-right: 4px solid #b5e853;
 }
 
 .speaker img {
@@ -114,14 +126,19 @@ html:not(.dark) .prose a {
 }
 
 @media (max-width: 640px) {
-  .speaker {
+  .speaker,
+  .speaker:nth-of-type(even) {
     flex-direction: column;
     text-align: center;
+    margin: 1.75rem 0;
   }
 
-  .speaker-talk {
+  .speaker-talk,
+  .speaker:nth-of-type(even) .speaker-talk {
     padding-left: 0;
+    padding-right: 0;
     border-left: none;
+    border-right: none;
   }
 }
 </style>
