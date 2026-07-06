@@ -68,6 +68,13 @@ We are delighted to announce our first speakers, with more to be confirmed - [su
   </div>
 </div>
 
+<div class="speaker">
+  <img src="/img/dolanor.jpg" alt="Tanguy Herrmann" class="nozoom" />
+  <div class="speaker-info">
+    <p class="speaker-talk">Full Stack Go: From Native Mobile App To REST Backend</p>
+    <p class="speaker-name">Tanguy Herrmann — <a href="https://www.linkedin.com/in/tanguy-herrmann-⧓-395b645b/">LinkedIn</a></p>
+  </div>
+</div>
 
 
 ## Schedule - 11 September 2026
