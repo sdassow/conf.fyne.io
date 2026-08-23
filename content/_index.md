@@ -72,7 +72,7 @@ We are delighted to announce our first speakers, with more to be confirmed - [su
   <img src="/img/pato.png" alt="Patricio Whittingslow" class="nozoom" />
   <div class="speaker-info">
     <p class="speaker-talk">Fyne: enabling laziness at a biotechnology firm</p>
-    <p class="speaker-name">Patricio Whittingslow — <a href="http://whittileaks.com/">Website</a></p>
+    <p class="speaker-name">Patricio Whittingslow — <a href="https://www.linkedin.com/in/patriciowhittingslow/">LinkedIn</a></p>
   </div>
 </div>
 
