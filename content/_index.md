@@ -91,6 +91,10 @@ We are delighted to announce our first speakers, with more to be confirmed - [su
 
 Why not sponsor the event? Get in touch to find out more!
 
+Event Sponsors:
+
+<a href="https://consultwithsimon.tech/" style="text-decoration: none" alt="Consult With Simon" title="Consult With Simon"><img src="/img/consultwithsimon.png" style="margin: 14pt 0; height: 200px" class="nozoom" /></a>
+
 Media Partners:
 
 <a href="https://devitjobs.uk/" style="text-decoration: none" alt="DevITJobs.uk" title="DevITJobs.uk"><img src="/img/devitjobs.png" height="64" style="margin: 14pt 0;" class="nozoom" /></a>
