@@ -81,11 +81,19 @@ We are delighted to announce our first speakers, with more to be confirmed - [su
 
 | Start (CEST) | Speaker | Title |
 |:---:|:---|:---|
-| 9:30 | | **Breakfast and registration** (pastry and drinks provided) |
-| 10:00 | TBD | Talks |
-| 13:00 | | **Lunch and networking** (sandwiches and drinks provided) |
-| 13:30 | TBD | Hackathon / Workshop |
-| 17:00 | | **Social event** (drinks provided) |
+| 9:30 |  | **Breakfast and registration** (pastry and drinks provided) |
+| 9:45 | Andy W | Welcome & "When Applications Design Themselves" |
+| 10:15 | Simon D | Spotlyte - fast and lightweight information lookup tool |
+| 10:45 | Tanguy H | Full Stack Go: From Native Mobile App To REST Backend |
+| 11:15 |  | **Break** (refreshments provided) |
+| 11:30 | Leo G | Developing a Fyne app with an Android foreground service |
+| 12:00 | Hayden P | Accessing the Android Camera |
+| 12:30 | Patricio W | Fyne: enabling laziness at a biotechnology firm |
+| 13:00 | | **Lunch and networking** (food and drinks provided) |
+| 13:30 |  | Hackathon & pair coding with the team |
+| 16:30 | Andy W | Close, Thanks and Looking Forward |
+| 17:00 |  | **Social event** (drinks provided) |
+
 
 ## Sponsorship
 
